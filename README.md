@@ -85,7 +85,7 @@ Make sure you have the following installed on your system:
 
 ## Usage
 
-Once the server is running, you can use tools like Postman or curl to interact with the API endpoints. Ensure to include JWT tokens in the `Authorization` header for protected routes.
+Once the server is running, you can use tools like Postman or curl to interact with the API endpoints. Ensure to include JWT tokens in the `auth-token` header for protected routes.
 
 ## API Endpoints
 
